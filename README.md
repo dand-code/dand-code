@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I am a former journalist 🗞 and I am passionate by user experience and accessibility. Because of this, I decided run into the coding career 👩‍💻 and continue improving my knowledge and skills.
+I am journalist 🗞 and I am passionate by user experience and accessibility. Because of this, I decided run into the coding career 👩‍💻 and continue improving my knowledge and skills.
 
 :rocket: I'm focused on:
 - HTML5, CSS3, Sass, Bootstrap;
@@ -9,7 +9,7 @@ I am a former journalist 🗞 and I am passionate by user experience and accessi
 - Creation of SPAs with React;
 - Node JS and Express.
 
-:round_pushpin: And I want to continue studying to become a full-stack developer and contribute to large projects.
+:round_pushpin: @Adalab was my first school, and I want to continue studying to become a full-stack developer and contribute to large projects.
 
 But in between, I would also love to have a good conversation about:
 - :coffee: Coffee
