@@ -9,7 +9,7 @@ I am journalist 🗞 and I am passionate by user experience and accessibility. B
 - Creation of SPAs with React;
 - Node JS and Express.
 
-:round_pushpin: @Adalab was my first school, and I want to continue studying to become a full-stack developer and contribute to large projects.
+:round_pushpin: [@Adalab](https://github.com/Adalab) was my first school, and I want to continue studying to become a full-stack developer and contribute to large projects.
 
 But in between, I would also love to have a good conversation about:
 - :coffee: Coffee
