@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello! 👋
 
-<!--
-**dand-code/dand-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a former journalist 🗞 and I am passionate by user experience and accessibility. Because of this, I decided run into the coding career 👩‍💻 and continue improving my knowledge and skills.
 
-Here are some ideas to get you started:
+:rocket: I'm focused on:
+- HTML5, CSS3, Sass, Bootstrap;
+- JavaScript (with ReactJS) and third-party web services (APIs);
+- Version control with Git;
+- Creation of SPAs with React;
+- Node JS and Express.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:round_pushpin: And I want to continue studying to become a full-stack developer and contribute to large projects.
+
+But in between, I would also love to have a good conversation about:
+- :coffee: Coffee
+- 🎬 Series (I am always open to suggestions)
+- :airplane: Trips
+- :fist: Feminism
+
+Let's talk!
