@@ -14,7 +14,5 @@ I am journalist 🗞 and I am passionate by user experience and accessibility. B
 But in between, I would also love to have a good conversation about:
 - :coffee: Coffee
 - 🎬 Series (I am always open to suggestions)
-- :airplane: Trips
-- :fist: Feminism
 
 Let's talk!
