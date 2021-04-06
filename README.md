@@ -1,4 +1,5 @@
 ### Hello! 👋
+[Visit my personal web :)] (https://dand-code.github.io/cv_dand-code/)
 
 I am journalist 🗞 and I am passionate by user experience and accessibility. Because of this, I decided run into the coding career 👩‍💻 and continue improving my knowledge and skills.
 
