@@ -4,7 +4,8 @@
 I am passionate by user experience and accessibility. Because of this, I decided run into the coding career 👩‍💻 and continue improving my knowledge and skills.
 
 :rocket: Now I'm learning:
--Typescript;
+
+- Typescript;
 - Advanced JavaScript.
 
 :round_pushpin: I began studying programming by myself, and now I just finished [@Adalab](https://github.com/Adalab) Bootcamp and learned more about:  
