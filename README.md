@@ -1,4 +1,6 @@
 ### Hello! 👋
+[Take a look at my Chrome plugin](https://chrome.google.com/webstore/detail/popupwords-app/omegbdlfeocacplbgonijebhibeblnml?hl=es)
+
 [Visit my personal web](https://dand-code.github.io/cv_dand-code/)
 
 I am passionate about user experience and accessibility. Because of this, I decided to run into a coding career 👩‍💻 and continue improving my knowledge and skills.
