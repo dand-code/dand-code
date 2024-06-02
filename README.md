@@ -4,12 +4,13 @@
 I am passionate about user experience and accessibility. Because of this, I decided to run into a coding career 👩‍💻 and continue improving my knowledge and skills.
 
 🚀 Now I'm learning:
-- Recoil
 - Advanced JavaScript
-- Typescript
+- Django
+- Kubernetes
+- Testing
 
 
-📍 I began studying programming by myself, and now I just finished [@Adalab](https://github.com/Adalab) Bootcamp and learned more about:
+📍 I started learning programming on my own, and then completed the [@Adalab](https://github.com/Adalab)  to further strengthen my skills, where I gained expertise in:
 - HTML5, CSS3, Sass, Bootstrap;
 - JavaScript (with ReactJS) and third-party web services (APIs);
 - Version control with Git;
