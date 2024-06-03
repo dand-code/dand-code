@@ -1,5 +1,5 @@
 ### Hello! 👋
-[Take a look at my Chrome plugin](https://chrome.google.com/webstore/detail/popupwords-app/omegbdlfeocacplbgonijebhibeblnml?hl=es)
+[Check out my Chrome plugin](https://chrome.google.com/webstore/detail/popupwords-app/omegbdlfeocacplbgonijebhibeblnml?hl=es) ⭐ [and its code.](https://github.com/dand-code/plugin-chrome)
 
 I am passionate about user experience and accessibility. Because of this, I decided to run into a coding career 👩‍💻 and continue improving my knowledge and skills.
 
