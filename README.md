@@ -6,7 +6,6 @@ I am passionate about user experience and accessibility. Because of this, I deci
 🚀 Now I'm learning:
 - Advanced JavaScript
 - Django
-- Kubernetes
 - Testing
 
 
